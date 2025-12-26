@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HR & Attendance Professional System",
+  "description": "A comprehensive Arabic system for managing employee attendance, movements, evaluations, and shift scheduling using Supabase and Excel integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
